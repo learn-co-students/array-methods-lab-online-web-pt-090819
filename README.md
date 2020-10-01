@@ -1,4 +1,4 @@
-# Array Methods Lab
+# ARRAY METHODS LAB
 
 ## Overview
 
